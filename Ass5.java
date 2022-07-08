@@ -1,3 +1,5 @@
+//This is a java Assignments
+
 public class Ass5
 {
 	public static void main(String []args)
